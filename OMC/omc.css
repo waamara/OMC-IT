@@ -1,0 +1,19 @@
+div button
+
+{
+  background-color: #f44336; 
+  border: none; 
+  color: white;  
+  text-align: center; 
+  text-decoration: none; 
+  font-size: larger; 
+  position: absolute; 
+  font-style: oblique; 
+  border-radius: 10px;  
+} 
+
+.first img 
+{ margin: 10px; 
+  border: 30px; 
+  block-size: 500px;
+}
